@@ -1,123 +1,244 @@
 {
-  "squads": {
-    "id": 0,
-    "name": "Pierwsza drużyna",
-    "cover_url": "http://s3.amazon.com/xyz.png",
-    "created_at": "2019-04-04T14:00:13.796+02:00",
-    "updated_at": "2019-04-04T14:00:13.796+02:00",
-    "members": [
-      {
-        "id": 0,
-        "role": "goalkeeper",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 1,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 1,
-        "role": "goalkeeper",
-        "firstName": "Radosław",
-        "lastName": "Cierzniak",
-        "number": 33,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 2,
-        "role": "goalkeeper",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 3,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 3,
-        "role": "defender",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 4,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 4,
-        "role": "defender",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 5,
-        "role": "defender",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 6,
-        "role": "defender",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 7,
-        "role": "midfielder",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 8,
-        "role": "staff",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 9,
-        "role": "staff",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      },
-      {
-        "id": 10,
-        "role": "striker",
-        "firstName": "Arkadiusz",
-        "lastName": "Malarz",
-        "number": 5,
-        "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
-        "created_at": "2019-04-04T14:00:13.796+02:00",
-        "updated_at": "2019-04-04T14:00:13.796+02:00"
-      }
-    ]
-  },
+  "squads": [
+    {
+      "id": 0,
+      "name": "Pierwsza drużyna",
+      "cover_url": "http://s3.amazon.com/xyz.png",
+      "created_at": "2019-04-04T14:00:13.796+02:00",
+      "updated_at": "2019-04-04T14:00:13.796+02:00",
+      "members": [
+        {
+          "id": 0,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 1,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 1,
+          "role": "goalkeeper",
+          "firstName": "Radosław",
+          "lastName": "Cierzniak",
+          "number": 33,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 2,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 3,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 3,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 4,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 4,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 5,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 6,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 7,
+          "role": "midfielder",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 8,
+          "role": "staff",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 9,
+          "role": "staff",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 10,
+          "role": "striker",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Pierwsza drużyna II",
+      "cover_url": "http://s3.amazon.com/xyz.png",
+      "created_at": "2019-04-04T14:00:13.796+02:00",
+      "updated_at": "2019-04-04T14:00:13.796+02:00",
+      "members": [
+        {
+          "id": 0,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 1,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 1,
+          "role": "goalkeeper",
+          "firstName": "Radosław",
+          "lastName": "Cierzniak",
+          "number": 33,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 2,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 3,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 3,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 4,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 4,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 5,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 6,
+          "role": "defender",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 7,
+          "role": "midfielder",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 8,
+          "role": "staff",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 9,
+          "role": "staff",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 10,
+          "role": "striker",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/player.jpg",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        }
+      ]
+    }
+  ],
   "user": {
     "firstName": "John",
     "lastName": "Doe"
