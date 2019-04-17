@@ -1,4 +1,38 @@
 {
+  "member": [
+    {
+      "id": 0,
+      "abrName": "AM",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/rectangle.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Arkadiusz",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-1-transparent.png",
+      "lastName": "Malarz",
+      "number": 33
+    },
+    {
+      "id": 1,
+      "abrName": "AS",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/rectangle.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "gb",
+        "weight": 86
+      },
+      "firstName": "Amos",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-1-transparent.png",
+      "lastName": "Shapiro Thompson",
+      "number": 20
+    }
+  ],
   "squads": [
     {
       "id": 0,
