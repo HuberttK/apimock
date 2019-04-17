@@ -1,3 +1,4 @@
 {
+  "/member/:id": "/member/:id",
   "/squads/:id": "/squads/:id"
 }
