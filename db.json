@@ -1,1 +1,284 @@
-{}
+{
+  "member": [
+    {
+      "id": 11,
+      "abrName": "AM",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/rectangle.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Arkadiusz",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-1-transparent.png",
+      "lastName": "Malarz",
+      "number": 33
+    },
+    {
+      "id": 21,
+      "abrName": "CH",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Carlos Daniel",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-hero.png",
+      "lastName": "Huseca",
+      "number": 33
+    },
+    {
+      "id": 31,
+      "abrName": "AV",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Aleksandr",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-hero.png",
+      "lastName": "Vukovic",
+      "number": 33
+    },
+    {
+      "id": 41,
+      "abrName": "JO",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-kwadrat.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Jakub",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-hero.png",
+      "lastName": "Ojrzynski",
+      "number": 33
+    },
+    {
+      "id": 51,
+      "abrName": "PC",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Piotr",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-hero.png",
+      "lastName": "Cichocki",
+      "number": 33
+    },
+    {
+      "id": 61,
+      "abrName": "AV",
+      "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
+      "details": {
+        "birthDate": "19/06/1980",
+        "debutDate": "22/04/1999",
+        "height": 189,
+        "nationality": "pl",
+        "weight": 86
+      },
+      "firstName": "Aleksandr",
+      "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-hero.png",
+      "lastName": "Vukovic",
+      "number": 33
+    }
+  ],
+  "squads": [
+    {
+      "id": 0,
+      "name": "Pierwsza drużyna",
+      "cover_url": "https://d2t37ngq1b94j0.cloudfront.net/static/pierwsza-druzyna-1440x680.jpg",
+      "created_at": "",
+      "updated_at": "",
+      "members": [
+        {
+          "id": 11,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz",
+          "number": 1,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 12,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz1",
+          "number": 33,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 13,
+          "role": "goalkeeper",
+          "firstName": "Arkadiusz",
+          "lastName": "Malarz2",
+          "number": 3,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 21,
+          "role": "defender",
+          "firstName": "Carlos Daniel",
+          "lastName": "Huseca",
+          "number": 4,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 22,
+          "role": "defender",
+          "firstName": "Carlos Daniel",
+          "lastName": "Huseca",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 23,
+          "role": "defender",
+          "firstName": "Carlos Daniel",
+          "lastName": "Huseca",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 24,
+          "role": "defender",
+          "firstName": "Carlos Daniel",
+          "lastName": "Huseca",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 25,
+          "role": "midfielder",
+          "firstName": "Carlos Daniel",
+          "lastName": "Huseca",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 27,
+          "role": "striker",
+          "firstName": "Carlos Daniel",
+          "lastName": "Huseca",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 31,
+          "role": "staff",
+          "firstName": "Aleksandr",
+          "lastName": "Vukovic",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 32,
+          "role": "staff",
+          "firstName": "Aleksandr",
+          "lastName": "Vukovic",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Legia II",
+      "cover_url": "https://d2t37ngq1b94j0.cloudfront.net/static/legia2-1440x680.jpg",
+      "created_at": "",
+      "updated_at": "",
+      "members": [
+        {
+          "id": 41,
+          "role": "goalkeeper",
+          "firstName": "Jakub",
+          "lastName": "Ojrzyński",
+          "number": 1,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 51,
+          "role": "defender",
+          "firstName": "Piotr",
+          "lastName": "Cichocki",
+          "number": 4,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 55,
+          "role": "midfielder",
+          "firstName": "Piotr",
+          "lastName": "Cichocki",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 56,
+          "role": "striker",
+          "firstName": "Piotr",
+          "lastName": "Cichocki",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        },
+        {
+          "id": 61,
+          "role": "staff",
+          "firstName": "Aleksandr",
+          "lastName": "Vukovic",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
+          "created_at": "",
+          "updated_at": ""
+        }
+      ]
+    }
+  ],
+  "user": {
+    "firstName": "John",
+    "lastName": "Doe"
+  }
+}
