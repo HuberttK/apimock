@@ -102,8 +102,8 @@
       "id": 0,
       "name": "Pierwsza drużyna",
       "cover_url": "https://d2t37ngq1b94j0.cloudfront.net/static/pierwsza-druzyna-1440x680.jpg",
-      "created_at": "2019-04-04T14:00:13.796+02:00",
-      "updated_at": "2019-04-04T14:00:13.796+02:00",
+      "created_at": "",
+      "updated_at": "",
       "members": [
         {
           "id": 11,
@@ -112,8 +112,8 @@
           "lastName": "Malarz",
           "number": 1,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 12,
@@ -122,8 +122,8 @@
           "lastName": "Malarz1",
           "number": 33,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 13,
@@ -132,8 +132,8 @@
           "lastName": "Malarz2",
           "number": 3,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 21,
@@ -142,8 +142,8 @@
           "lastName": "Huseca",
           "number": 4,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 22,
@@ -152,8 +152,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 23,
@@ -162,8 +162,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 24,
@@ -172,8 +172,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 25,
@@ -182,8 +182,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 27,
@@ -192,8 +192,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 31,
@@ -202,8 +202,8 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 32,
@@ -212,8 +212,8 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         }
       ]
     },
@@ -221,8 +221,8 @@
       "id": 1,
       "name": "Legia II",
       "cover_url": "https://d2t37ngq1b94j0.cloudfront.net/static/legia2-1440x680.jpg",
-      "created_at": "2019-04-04T14:00:13.796+02:00",
-      "updated_at": "2019-04-04T14:00:13.796+02:00",
+      "created_at": "",
+      "updated_at": "",
       "members": [
         {
           "id": 41,
@@ -231,8 +231,8 @@
           "lastName": "Ojrzyński",
           "number": 1,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 51,
@@ -241,8 +241,8 @@
           "lastName": "Cichocki",
           "number": 4,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 52,
@@ -251,8 +251,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 53,
@@ -261,8 +261,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 54,
@@ -271,8 +271,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 55,
@@ -281,8 +281,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 56,
@@ -291,8 +291,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 61,
@@ -301,8 +301,8 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         },
         {
           "id": 62,
@@ -311,8 +311,8 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
+          "created_at": "",
+          "updated_at": ""
         }
       ]
     }
