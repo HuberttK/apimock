@@ -245,36 +245,6 @@
           "updated_at": ""
         },
         {
-          "id": 52,
-          "role": "defender",
-          "firstName": "Piotr",
-          "lastName": "Cichocki",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
-        },
-        {
-          "id": 53,
-          "role": "defender",
-          "firstName": "Piotr",
-          "lastName": "Cichocki",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
-        },
-        {
-          "id": 54,
-          "role": "defender",
-          "firstName": "Piotr",
-          "lastName": "Cichocki",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
-        },
-        {
           "id": 55,
           "role": "midfielder",
           "firstName": "Piotr",
@@ -304,16 +274,6 @@
           "created_at": "",
           "updated_at": ""
         },
-        {
-          "id": 62,
-          "role": "staff",
-          "firstName": "Aleksandr",
-          "lastName": "Vukovic",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
-        }
       ]
     }
   ],
