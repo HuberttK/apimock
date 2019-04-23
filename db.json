@@ -3,6 +3,7 @@
     {
       "id": 11,
       "abrName": "AM",
+      "bgColor": "#f5d960",
       "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/rectangle.png",
       "details": {
         "birthDate": "19/06/1980",
@@ -19,22 +20,24 @@
     {
       "id": 21,
       "abrName": "CH",
+      "bgColor": "#b7a26d",
       "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
       "details": {
-        "birthDate": "19/06/1980",
-        "debutDate": "22/04/1999",
-        "height": 189,
-        "nationality": "pl",
-        "weight": 86
+        "birthDate": "12/06/1990",
+        "debutDate": "05/07/2018",
+        "height": 176,
+        "nationality": "es",
+        "weight": 70
       },
       "firstName": "Carlos Daniel",
       "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-hero.png",
       "lastName": "Huseca",
-      "number": 33
+      "number": 27
     },
     {
       "id": 31,
       "abrName": "AV",
+      "bgColor": "#c01200",
       "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
       "details": {
         "birthDate": "19/06/1980",
@@ -45,12 +48,12 @@
       },
       "firstName": "Aleksandr",
       "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-hero.png",
-      "lastName": "Vukovic",
-      "number": 33
+      "lastName": "Vukovic"
     },
     {
       "id": 41,
       "abrName": "JO",
+      "bgColor": "#009171",
       "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-kwadrat.png",
       "details": {
         "birthDate": "19/06/1980",
@@ -61,12 +64,13 @@
       },
       "firstName": "Jakub",
       "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-hero.png",
-      "lastName": "Ojrzynski",
+      "lastName": "Ojrzyński",
       "number": 33
     },
     {
       "id": 51,
       "abrName": "PC",
+      "bgColor": "#b7a26d",
       "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
       "details": {
         "birthDate": "19/06/1980",
@@ -83,6 +87,7 @@
     {
       "id": 61,
       "abrName": "AV",
+      "bgColor": "#a9aaac",
       "bioImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
       "details": {
         "birthDate": "19/06/1980",
@@ -93,8 +98,7 @@
       },
       "firstName": "Aleksandr",
       "heroImage": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-hero.png",
-      "lastName": "Vukovic",
-      "number": 33
+      "lastName": "Vukovic"
     }
   ],
   "squads": [
@@ -102,8 +106,8 @@
       "id": 0,
       "name": "Pierwsza drużyna",
       "cover_url": "https://d2t37ngq1b94j0.cloudfront.net/static/pierwsza-druzyna-1440x680.jpg",
-      "created_at": "",
-      "updated_at": "",
+      "created_at": "2019-04-04T14:00:13.796+02:00",
+      "updated_at": "2019-04-04T14:00:13.796+02:00",
       "members": [
         {
           "id": 11,
@@ -112,58 +116,58 @@
           "lastName": "Malarz",
           "number": 1,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 12,
           "role": "goalkeeper",
-          "firstName": "Arkadiusz",
-          "lastName": "Malarz1",
+          "firstName": "Radosław",
+          "lastName": "Cierzniak",
           "number": 33,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 13,
           "role": "goalkeeper",
-          "firstName": "Arkadiusz",
-          "lastName": "Malarz2",
+          "firstName": "Radosław",
+          "lastName": "Majecki",
           "number": 3,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 21,
           "role": "defender",
-          "firstName": "Carlos Daniel",
-          "lastName": "Huseca",
+          "firstName": "Adam",
+          "lastName": "Hlousek",
           "number": 4,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 22,
           "role": "defender",
-          "firstName": "Carlos Daniel",
+          "firstName": "Artur Jędrzejczyk",
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 23,
           "role": "defender",
-          "firstName": "Carlos Daniel",
-          "lastName": "Huseca",
+          "firstName": "Mateusz",
+          "lastName": "Wieteska",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 24,
@@ -172,8 +176,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 25,
@@ -182,8 +186,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 27,
@@ -192,8 +196,8 @@
           "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 31,
@@ -202,8 +206,8 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 32,
@@ -212,8 +216,8 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         }
       ]
     },
@@ -221,8 +225,8 @@
       "id": 1,
       "name": "Legia II",
       "cover_url": "https://d2t37ngq1b94j0.cloudfront.net/static/legia2-1440x680.jpg",
-      "created_at": "",
-      "updated_at": "",
+      "created_at": "2019-04-04T14:00:13.796+02:00",
+      "updated_at": "2019-04-04T14:00:13.796+02:00",
       "members": [
         {
           "id": 41,
@@ -231,8 +235,8 @@
           "lastName": "Ojrzyński",
           "number": 1,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/ojrzynski-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 51,
@@ -241,8 +245,38 @@
           "lastName": "Cichocki",
           "number": 4,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 52,
+          "role": "defender",
+          "firstName": "Piotr",
+          "lastName": "Cichocki",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 53,
+          "role": "defender",
+          "firstName": "Piotr",
+          "lastName": "Cichocki",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 54,
+          "role": "defender",
+          "firstName": "Piotr",
+          "lastName": "Cichocki",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 55,
@@ -251,8 +285,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 56,
@@ -261,8 +295,8 @@
           "lastName": "Cichocki",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
           "id": 61,
@@ -271,8 +305,18 @@
           "lastName": "Vukovic",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "",
-          "updated_at": ""
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
+        },
+        {
+          "id": 62,
+          "role": "staff",
+          "firstName": "Aleksandr",
+          "lastName": "Vukovic",
+          "number": 5,
+          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
+          "created_at": "2019-04-04T14:00:13.796+02:00",
+          "updated_at": "2019-04-04T14:00:13.796+02:00"
         }
       ]
     }
