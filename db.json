@@ -130,16 +130,6 @@
           "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
-          "id": 13,
-          "role": "goalkeeper",
-          "firstName": "Radosław",
-          "lastName": "Majecki",
-          "number": 3,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/malarz-600x600.jpg",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
-        },
-        {
           "id": 21,
           "role": "defender",
           "firstName": "Adam",
@@ -164,16 +154,6 @@
           "role": "defender",
           "firstName": "Mateusz",
           "lastName": "Wieteska",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
-        },
-        {
-          "id": 24,
-          "role": "defender",
-          "firstName": "Carlos Daniel",
-          "lastName": "Huseca",
           "number": 5,
           "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/huseca-kwadrat.png",
           "created_at": "2019-04-04T14:00:13.796+02:00",
@@ -249,36 +229,6 @@
           "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
         {
-          "id": 52,
-          "role": "defender",
-          "firstName": "Piotr",
-          "lastName": "Cichocki",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
-        },
-        {
-          "id": 53,
-          "role": "defender",
-          "firstName": "Piotr",
-          "lastName": "Cichocki",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
-        },
-        {
-          "id": 54,
-          "role": "defender",
-          "firstName": "Piotr",
-          "lastName": "Cichocki",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/cichocki-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
-        },
-        {
           "id": 55,
           "role": "midfielder",
           "firstName": "Piotr",
@@ -308,16 +258,6 @@
           "created_at": "2019-04-04T14:00:13.796+02:00",
           "updated_at": "2019-04-04T14:00:13.796+02:00"
         },
-        {
-          "id": 62,
-          "role": "staff",
-          "firstName": "Aleksandr",
-          "lastName": "Vukovic",
-          "number": 5,
-          "thumb_url": "https://d2t37ngq1b94j0.cloudfront.net/static/vukovic-kwadrat.png",
-          "created_at": "2019-04-04T14:00:13.796+02:00",
-          "updated_at": "2019-04-04T14:00:13.796+02:00"
-        }
       ]
     }
   ],
